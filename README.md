@@ -2,7 +2,7 @@
  
  <h2> :grey_question: Sobre o AluraPlus </h2>
  
-Projeto desenvolvido durante o curso HTML E CSS: Praticando HTML e CSS com a Instrutora Mônica Hillman. É um site chamado AluraPlus contendo informações promocionais sobre o Combo Alura + Alura Língua.
+Projeto desenvolvido durante o curso HTML E CSS: Praticando HTML e CSS. É um site chamado AluraPlus contendo informações promocionais sobre o Combo Alura + Alura Língua.
 
 <h2>:computer: Tecnologias usadas </h2>
 
@@ -23,7 +23,9 @@ E para a executar os códigos, o editor [CodePen](https://codepen.io/).
 Acessando o CodePen e copiando os códigos nas respectivas abas de HTML e CSS ou realize o download dos arquivos que estão na **branch main**, clique em code e em seguida download zip. Após descompactar o arquivo, abra-o em um editor de códido da sua preferência.
 
 
+<h2> ❤ Agradecimentos </h2>
 
+Agradeço a Instrutora Moni Hillman que acompanha os alunos durante a realização do curso.
 
 
 <h2> 👩‍💻Desenvolvido por </h2>
