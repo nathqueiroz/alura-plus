@@ -10,7 +10,7 @@ Neste projeto foram utilizadas as seguintes linguagens:
 
 <li>HTML</li>
 <li>CSS</li>
-<li>JAVASCRIPT</li>
+
 
 E para a executar os códigos, o editor [CodePen](https://codepen.io/).
 
