@@ -16,6 +16,8 @@ E para a executar os códigos, o editor [CodePen](https://codepen.io/).
 
 <h2> 🛠️ O projeto</h2>
 
+Acesse a página [neste link](https://alura-plus-nu-puce.vercel.app/)
+
 ![aluraplus](https://user-images.githubusercontent.com/101743082/225170699-cc8f1a55-f793-4934-a322-49e431edd642.gif)
 
 <h2> :unlock: Como executar </h2>
