@@ -12,7 +12,7 @@ Neste projeto foram utilizadas as seguintes linguagens:
 <li>CSS</li>
 
 
-E para a executar os códigos, o editor [CodePen](https://codepen.io/).
+E para a executar os códigos, o editor VS CODE.
 
 <h2> 🛠️ O projeto</h2>
 
